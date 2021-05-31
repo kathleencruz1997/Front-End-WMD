@@ -1,0 +1,83 @@
+table{
+		margin:auto auto;
+		
+}
+
+td{
+	padding:5px;
+}
+
+.tibss {
+	padding-top:30px;
+	background:gray;
+}			
+		
+.side{
+		
+				
+				width: 100px;
+				padding-left: 50px;
+				
+}
+		
+.tab{
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 38px;
+				margin-top: 150px;
+		
+}
+.tab2 {
+
+		width: 10%;
+		height: 79px;
+		padding-left: 30px; 
+		background-color: #fff;
+		color: #FFFFFF;
+		
+}
+.tab3 {
+	
+				margin-left: auto;
+				margin-right: auto;
+	
+	
+}
+input[type=text],input[type=password],input[type=date],input[type=time],select,input[type=search]{
+			border-radius: 6px;
+			height: 30px;
+
+			text-align:center;
+			margin-right: 39px;
+			margin-left: 70px;
+			
+}
+.add {
+		font-size: 21px;
+		text-align: center;
+		border-radius: 6px;
+		width: 128px;
+		font-family: inherit;
+		font-weight: bold;
+		color: #000;
+}
+
+.desc {
+	
+		border-radius: 6px;
+		height: 50px;
+	
+}
+.account{
+	
+		border-radius: 6px;
+		height: 30px;
+		width: 170px;
+		font-size: 20px;
+		font-family: -webkit-pictograph;
+		font-weight: bold;
+		padding-right: 42px;
+		margin-left: 134px;
+		padding-left: 33px;
+		
+}

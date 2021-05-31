@@ -1,0 +1,44 @@
+.searchtable{
+
+				margin-left: auto;
+				margin-right: auto;
+
+
+}
+.font {
+			margin-left: 21px;
+			padding-left: 17px;
+    margin-right: -121px;
+}
+.h {
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.trow {
+  margin-right: -15px;
+  margin-left: 434px;
+}
+.rad {
+	
+	border-radius: 4px;
+	margin-left: 10px;
+	padding-bottom: 6px;
+	
+	
+	
+}
+.ttrow {
+  margin-right: -15px;
+  
+}
+.go {
+	width: 225px;
+    height: 53px;
+    margin-top: -13px;
+	
+}
+.gora {
+	width: 962px;
+    height: 525px;
+}
